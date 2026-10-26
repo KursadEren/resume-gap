@@ -1,0 +1,12 @@
+{
+  "name": "resume-gap",
+  "version": "1.0.0",
+  "description": "Turns Claude into a resume reviewer that compares a job posting against your resumes and shows the gap — without ever inventing experience you don't have.",
+  "author": {
+    "name": "Kürşad Eren MADEN",
+    "url": "https://github.com/KursadEren"
+  },
+  "homepage": "https://github.com/KursadEren/resume-gap",
+  "license": "MIT",
+  "keywords": ["resume", "cv", "job-posting", "job-description", "ats", "career", "hiring"]
+}

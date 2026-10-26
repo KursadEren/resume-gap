@@ -1,0 +1,14 @@
+{
+  "name": "resume-gap",
+  "owner": {
+    "name": "Kürşad Eren MADEN",
+    "url": "https://github.com/KursadEren"
+  },
+  "plugins": [
+    {
+      "name": "resume-gap",
+      "source": "./",
+      "description": "Compare a job posting against your resumes. Shows what's missing and asks about it — never writes it in for you."
+    }
+  ]
+}
